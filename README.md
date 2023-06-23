@@ -1,6 +1,6 @@
 ### About me
 - Hello, my name is Marcel 16 y.o.
-- I am studying at TSPK(Togliatti)
+- I am studying at TSPC (Togliatti)
 ### My skills
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
