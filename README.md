@@ -1,5 +1,5 @@
 ### About me
-- Hello, my name is Marcel 16 y.o.
+- Hello, my name is Marcel 17 y.o.
 - I am studying at TSPC (Togliatti)
 ### My skills
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
